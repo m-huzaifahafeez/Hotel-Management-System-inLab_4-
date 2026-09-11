@@ -1,6 +1,6 @@
 Lab 04 in lab work
 # hotel management system
-## it is my firdt project
+## it is my first project
 ### body of the project
 **bold**
 *italic*
